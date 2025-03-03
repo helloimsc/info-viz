@@ -1,0 +1,709 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?offset=0&limit=20&query=Lady%20Gaga&type=artist",
+        "limit": 20,
+        "next": "https://api.spotify.com/v1/search?offset=20&limit=20&query=Lady%20Gaga&type=artist",
+        "offset": 0,
+        "previous": null,
+        "total": 829,
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 35270248
+                },
+                "genres": [
+                    "art pop",
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+                "id": "1HY2Jd0NmPuamShAr6KMms",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174aadc18cac8d48124357c38e6",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178aadc18cac8d48124357c38e6",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Lady Gaga",
+                "popularity": 91,
+                "type": "artist",
+                "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3472320
+                },
+                "genres": [
+                    "mandopop",
+                    "c-pop",
+                    "taiwanese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7Dx7RhX0mFuXhCOUgB01uM",
+                "id": "7Dx7RhX0mFuXhCOUgB01uM",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb181b3f24c2a457e7fa3edb59",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174181b3f24c2a457e7fa3edb59",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178181b3f24c2a457e7fa3edb59",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "JJ Lin",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:7Dx7RhX0mFuXhCOUgB01uM"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/27lS3oWOf8XfnO8ThOr7SF"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 15
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/27lS3oWOf8XfnO8ThOr7SF",
+                "id": "27lS3oWOf8XfnO8ThOr7SF",
+                "images": [],
+                "name": "Lady Gaga",
+                "popularity": 0,
+                "type": "artist",
+                "uri": "spotify:artist:27lS3oWOf8XfnO8ThOr7SF"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7BXMFyPdBOP61qeL3E5qU7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 542
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/7BXMFyPdBOP61qeL3E5qU7",
+                "id": "7BXMFyPdBOP61qeL3E5qU7",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733a65c6304f3b097003253580",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023a65c6304f3b097003253580",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d000048513a65c6304f3b097003253580",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "name": "Gaga For Lady Stars",
+                "popularity": 10,
+                "type": "artist",
+                "uri": "spotify:artist:7BXMFyPdBOP61qeL3E5qU7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 36214315
+                },
+                "genres": [
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+                "id": "6jJ0s89eD6GaHleKKya26X",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5e5f676a99a81dba06cc3db6",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab676161000051745e5f676a99a81dba06cc3db6",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f1785e5f676a99a81dba06cc3db6",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Katy Perry",
+                "popularity": 85,
+                "type": "artist",
+                "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 635979
+                },
+                "genres": [
+                    "gqom",
+                    "afro soul",
+                    "afropop",
+                    "amapiano",
+                    "afro house"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5BWiwrFskTQRxKUjPMh8kI",
+                "id": "5BWiwrFskTQRxKUjPMh8kI",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb19819e5a65686b82701bb548",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000517419819e5a65686b82701bb548",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f17819819e5a65686b82701bb548",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Lady Zamar",
+                "popularity": 43,
+                "type": "artist",
+                "uri": "spotify:artist:5BWiwrFskTQRxKUjPMh8kI"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 114962
+                },
+                "genres": [
+                    "mandopop",
+                    "c-pop",
+                    "chinese r&b",
+                    "taiwanese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6fOqdhRNsMQqtwRwgo3NUv",
+                "id": "6fOqdhRNsMQqtwRwgo3NUv",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6f9e419c4ae583483afcd152",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab676161000051746f9e419c4ae583483afcd152",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f1786f9e419c4ae583483afcd152",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Firdhaus",
+                "popularity": 60,
+                "type": "artist",
+                "uri": "spotify:artist:6fOqdhRNsMQqtwRwgo3NUv"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6xNsC3M3pKfELSxER7Wxpg"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 6890
+                },
+                "genres": [
+                    "jazz rap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6xNsC3M3pKfELSxER7Wxpg",
+                "id": "6xNsC3M3pKfELSxER7Wxpg",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb23632986f7785fc76f709da3",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000517423632986f7785fc76f709da3",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f17823632986f7785fc76f709da3",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Lady Paradox",
+                "popularity": 32,
+                "type": "artist",
+                "uri": "spotify:artist:6xNsC3M3pKfELSxER7Wxpg"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 42369
+                },
+                "genres": [
+                    "mandopop",
+                    "c-pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0czbvTRVGHfCdRsJLxbBGQ",
+                "id": "0czbvTRVGHfCdRsJLxbBGQ",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb26eb3b525aebcf55cddb6a6",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174b26eb3b525aebcf55cddb6a6",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178b26eb3b525aebcf55cddb6a6",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "DIOR 大穎",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:0czbvTRVGHfCdRsJLxbBGQ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 8507
+                },
+                "genres": [
+                    "soca",
+                    "dancehall"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3WJps7HNM1yNBed5t6ptQJ",
+                "id": "3WJps7HNM1yNBed5t6ptQJ",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb59cad59d766756ab1425375f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000517459cad59d766756ab1425375f",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f17859cad59d766756ab1425375f",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Lady Lava",
+                "popularity": 37,
+                "type": "artist",
+                "uri": "spotify:artist:3WJps7HNM1yNBed5t6ptQJ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1032350
+                },
+                "genres": [
+                    "mandopop",
+                    "taiwanese pop",
+                    "c-pop",
+                    "gufeng"
+                ],
+                "href": "https://api.spotify.com/v1/artists/28gf2piFx6cAKOMIwcky5a",
+                "id": "28gf2piFx6cAKOMIwcky5a",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb49533b7b53e14e02cf7739d4",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000517449533b7b53e14e02cf7739d4",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f17849533b7b53e14e02cf7739d4",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "A-Lin",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:28gf2piFx6cAKOMIwcky5a"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 99242
+                },
+                "genres": [
+                    "amapiano",
+                    "gqom"
+                ],
+                "href": "https://api.spotify.com/v1/artists/63BHCKXCt00q20fd45W4Pk",
+                "id": "63BHCKXCt00q20fd45W4Pk",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb1e8b845b04f3949c8d821347",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab676161000051741e8b845b04f3949c8d821347",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f1781e8b845b04f3949c8d821347",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Lady Amar",
+                "popularity": 36,
+                "type": "artist",
+                "uri": "spotify:artist:63BHCKXCt00q20fd45W4Pk"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 28589
+                },
+                "genres": [
+                    "chinese hip hop",
+                    "chinese r&b",
+                    "mandopop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3NSGCBkfj6hEhXQhytRg4D",
+                "id": "3NSGCBkfj6hEhXQhytRg4D",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eba91c077deda72a322327855f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174a91c077deda72a322327855f",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178a91c077deda72a322327855f",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "3P",
+                "popularity": 49,
+                "type": "artist",
+                "uri": "spotify:artist:3NSGCBkfj6hEhXQhytRg4D"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3y9xESCpjDXsJhBd7Shp8C"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 567
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/3y9xESCpjDXsJhBd7Shp8C",
+                "id": "3y9xESCpjDXsJhBd7Shp8C",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb608224f00bcafee72d586120",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174608224f00bcafee72d586120",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178608224f00bcafee72d586120",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Lady Rafaella",
+                "popularity": 27,
+                "type": "artist",
+                "uri": "spotify:artist:3y9xESCpjDXsJhBd7Shp8C"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4F5TrtYYxsVM1PhbtISE5m"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 675526
+                },
+                "genres": [
+                    "cantopop",
+                    "chinese rock",
+                    "c-pop",
+                    "mandopop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4F5TrtYYxsVM1PhbtISE5m",
+                "id": "4F5TrtYYxsVM1PhbtISE5m",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27371befcc92c268193bdda52db",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0271befcc92c268193bdda52db",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000485171befcc92c268193bdda52db",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "name": "Beyond",
+                "popularity": 56,
+                "type": "artist",
+                "uri": "spotify:artist:4F5TrtYYxsVM1PhbtISE5m"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/38HjA3mCsjOcAgJiJLsx2D"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2475
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/38HjA3mCsjOcAgJiJLsx2D",
+                "id": "38HjA3mCsjOcAgJiJLsx2D",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27355a58e7acfb8efb270ff590f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0255a58e7acfb8efb270ff590f",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000485155a58e7acfb8efb270ff590f",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "name": "Lady Gaga for Piano",
+                "popularity": 2,
+                "type": "artist",
+                "uri": "spotify:artist:38HjA3mCsjOcAgJiJLsx2D"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 181708
+                },
+                "genres": [
+                    "mandopop",
+                    "taiwanese pop",
+                    "c-pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5oqLnVZzJJXE3YnzzZfRKu",
+                "id": "5oqLnVZzJJXE3YnzzZfRKu",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd9939d240016befcc2095b26",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174d9939d240016befcc2095b26",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178d9939d240016befcc2095b26",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "F.I.R.",
+                "popularity": 55,
+                "type": "artist",
+                "uri": "spotify:artist:5oqLnVZzJJXE3YnzzZfRKu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/78RN4N0o7KIcN63nH8Twxa"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 28
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/78RN4N0o7KIcN63nH8Twxa",
+                "id": "78RN4N0o7KIcN63nH8Twxa",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dd81891a6b011602c09855d1",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dd81891a6b011602c09855d1",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00004851dd81891a6b011602c09855d1",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "name": "Lady Gaga Orkestband",
+                "popularity": 0,
+                "type": "artist",
+                "uri": "spotify:artist:78RN4N0o7KIcN63nH8Twxa"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 179686
+                },
+                "genres": [
+                    "mandopop",
+                    "c-pop",
+                    "taiwanese pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3DOs7Bsr9x4eJHqv6ViPvR",
+                "id": "3DOs7Bsr9x4eJHqv6ViPvR",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb20808f30ae9ca8eb8b51b96d",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000517420808f30ae9ca8eb8b51b96d",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f17820808f30ae9ca8eb8b51b96d",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "BY2",
+                "popularity": 50,
+                "type": "artist",
+                "uri": "spotify:artist:3DOs7Bsr9x4eJHqv6ViPvR"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/47I1Io01l1zubnuzDPb9OB"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 760
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/47I1Io01l1zubnuzDPb9OB",
+                "id": "47I1Io01l1zubnuzDPb9OB",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27363d5ac3a3fe8fd2e79b2053d",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0263d5ac3a3fe8fd2e79b2053d",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000485163d5ac3a3fe8fd2e79b2053d",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "name": "Lady Gaga Tribute Orchestra",
+                "popularity": 1,
+                "type": "artist",
+                "uri": "spotify:artist:47I1Io01l1zubnuzDPb9OB"
+            }
+        ]
+    }
+}
