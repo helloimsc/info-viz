@@ -153,25 +153,25 @@ def get_song_lyrics(song_name, artist_name=None):
     return True, lyrics
 
 
-df = pd.read_pickle("data/lyrics_25000.pkl")
-for i in range(25000, 25200, 100):
-    for row in df[i:i+100].itertuples(index=True):  # Set index=True if you need the index
+# df = pd.read_pickle("data/lyrics_25000.pkl")
+# for i in range(25000, 25200, 100):
+#     for row in df[i:i+100].itertuples(index=True):  # Set index=True if you need the index
         
-        print(f"{row.Index}, {row.track_name}, {row.artist_names}")
-        is_found, lyric_url, primary_artist, feat_artists, release_date = search_lyrics_on_genius(song_name=row.track_name, artist_name=row.artist_names)
-        df.loc[row.Index, "has_lyrics"] = is_found
-        df.loc[row.Index, "lyric_url"] = lyric_url
-        df.loc[row.Index, "primary_artist"] = primary_artist
-        df.loc[row.Index, "feat_artist"] = feat_artists
-        df.loc[row.Index, "release_date"] = release_date
-        if is_found:
-            lyrics = scrape_lyrics(lyrics_url=lyric_url)
-            df.loc[row.Index, "lyrics"] = lyrics
-            df.loc[row.Index, "scraped"] = True
-    filename = f"data/lyrics_{i+100}.pkl"
-    df.to_pickle(filename)
-    to_delete = f"data/lyrics_{i-200}.pkl"
-    if os.path.exists(to_delete):
-        os.remove(to_delete)
+#         print(f"{row.Index}, {row.track_name}, {row.artist_names}")
+#         is_found, lyric_url, primary_artist, feat_artists, release_date = search_lyrics_on_genius(song_name=row.track_name, artist_name=row.artist_names)
+#         df.loc[row.Index, "has_lyrics"] = is_found
+#         df.loc[row.Index, "lyric_url"] = lyric_url
+#         df.loc[row.Index, "primary_artist"] = primary_artist
+#         df.loc[row.Index, "feat_artist"] = feat_artists
+#         df.loc[row.Index, "release_date"] = release_date
+#         if is_found:
+#             lyrics = scrape_lyrics(lyrics_url=lyric_url)
+#             df.loc[row.Index, "lyrics"] = lyrics
+#             df.loc[row.Index, "scraped"] = True
+#     filename = f"data/lyrics_{i+100}.pkl"
+#     df.to_pickle(filename)
+#     to_delete = f"data/lyrics_{i-200}.pkl"
+#     if os.path.exists(to_delete):
+#         os.remove(to_delete)
     
-    time.sleep(60)
+#     time.sleep(60)
