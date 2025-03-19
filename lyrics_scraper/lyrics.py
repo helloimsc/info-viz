@@ -175,3 +175,34 @@ def get_song_lyrics(song_name, artist_name=None):
 #         os.remove(to_delete)
     
 #     time.sleep(60)
+
+def get_song_detail_from_spotify(track_id):
+    """
+    get song details with track_id from spotify
+    can get:
+        is_collab: True/False
+        primary_artist: String
+        feat_artists: String concatenated ;
+        duration_ms: number
+        popularity: number
+        release_date: yyyy-mm-dd
+    
+    """
+    is_collab = False
+    feat_artists = None
+    popularity = 0
+    duration_ms = 0
+    
+    result = sp.track(track_id)
+    release_date = result["album"]["release_date"]
+    artists = result["artists"]
+    if len(artists) > 1:
+        is_collab = True
+    primary_artist = artists[0]["name"]
+    if is_collab:
+        feat_artists = ";".join([artist["name"]for artist in artists[1:]])
+    duration_ms = result["duration_ms"]
+    popularity = result["popularity"]
+     
+    return popularity, primary_artist, is_collab, feat_artists, duration_ms, release_date
+    
