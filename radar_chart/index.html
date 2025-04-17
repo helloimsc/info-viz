@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5.1 Pie layout | Visualizing 40 Years of Music Industry Sales | D3.js in Action</title>
+    <link rel="stylesheet" type="text/css" href="css/base.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Top 3 Artists</h1>
+        <div style="text-align: center;">Based on data from 2020-2024</div>
+        <!-- <select id="songSelector" multiple size="4" style="margin-bottom: 1rem;"></select> -->
+        <div id="artists">
+            <div class="artist" id="drake">
+                <image src="images/2_Drake.png" id="drake-image"></image>Drake
+            </div>
+            <div class="artist" id="taytay">
+                <image src="images/1_Taylor Swift.png" id="taytay-image"></image>Taylor Swift
+            </div>
+            <div class="artist" id="weeknd">
+                <image src="images/3_The Weeknd.png" id="weeknd-image"></image>The Weeknd
+            </div>
+        </div>
+        <div class="current-artist"><span id="current-artist"></span>Music Style</div>
+        <div id="song-dropdown">Select a song:&nbsp;&nbsp;&nbsp;<select id="songSelector"></select></div>
+        <div id="slider-popularity">Filter by popularity</div>
+        <div id="chart"></div>
+        <div id="tooltip"></div>
+    </div>
+    <!-- Load your scripts here -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+    <script src="js/load-data.js"></script>
+    <script src="js/draw-chart.js"></script>
+
+</body>
+</html>
